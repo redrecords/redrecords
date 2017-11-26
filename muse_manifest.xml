@@ -1,0 +1,150 @@
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="redrecords.com" resolutions="1x" timestamp="1511658968290">
+  <folder name="css">
+    <file name="site_global.css" crc="4078310762"/>
+    <file name="master_a-p_g_-maestra.css" crc="143023598" ref="contacto:artistas:nosostros:portafolio:index:servicios"/>
+    <file name="contacto.css" crc="47659775" ref="contacto"/>
+    <file name="artistas.css" crc="4018761239" ref="artistas"/>
+    <file name="nosostros.css" crc="432224167" ref="nosostros"/>
+    <file name="portafolio.css" crc="406236236" ref="portafolio"/>
+    <file name="index.css" crc="4076998729" ref="index"/>
+    <file name="servicios.css" crc="3788647473" ref="servicios"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosostros:servicios:portafolio:artistas:contacto"/>
+    <file name="museutils.js" crc="46400467" ref="index:nosostros:servicios:portafolio:artistas:contacto"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nosostros:servicios:portafolio:artistas:contacto"/>
+    <file name="museconfig.js" crc="4273287925" ref="index:nosostros:servicios:portafolio:artistas:contacto"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:nosostros:servicios:portafolio:contacto"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:nosostros:servicios:portafolio:artistas:contacto"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:nosostros:servicios:portafolio:artistas:contacto"/>
+    <file name="webpro.js" crc="4152390327" ref="index:portafolio:contacto"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="index:portafolio"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="index:portafolio"/>
+    <file name="touchswipe.js" crc="4228958816" ref="index:portafolio"/>
+    <file name="form_check.php" crc="4286608207" ref="index"/>
+    <file name="form_throttle.php" crc="313199896" ref="index"/>
+    <file name="form_process.php" crc="3855659497" ref="index"/>
+    <file name="form-u5108.php" crc="4011350096" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:nosostros:servicios:portafolio:artistas:contacto"/>
+    <file name="require.js" crc="85721165" ref="index:nosostros:servicios:portafolio:artistas:contacto"/>
+    <file name="form-u4985.php" crc="450436079" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="a-pág.-maestra-favicon.ico" crc="3904270166" ref="index"/>
+    <file name="cabecera-03.jpg" crc="4287590828" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider-1.jpg" crc="483605666" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="slider-2.jpg" crc="314642736" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider-3.jpg" crc="3788705516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider-4.jpg" crc="3898324264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider-5.jpg" crc="278152322" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vacio.png" crc="3806837854" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider-1-crop-u2089.jpg" crc="3900438056" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider-2-crop-u2218.jpg" crc="517888818" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider-3-crop-u2244.jpg" crc="338154176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider-4-crop-u2270.jpg" crc="94387149" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider-5-crop-u2296.jpg" crc="385081170" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u2595-4.png" crc="144670404" ref="index"/>
+    <file name="brochure.jpg" crc="4178546232" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3006-4.png" crc="4116250445" ref="index"/>
+    <file name="comentarios.jpg" crc="4095268176" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3092-4.png" crc="483688232" ref="index"/>
+    <file name="cabecera-01.jpg" crc="492754019" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="enviar.png" crc="467490410" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cabecera-01-u4587-fr.jpg" crc="277820848" ref="nosostros"/>
+    <file name="u4590-4.png" crc="4092541446" ref="nosostros"/>
+    <file name="cabecera-02.jpg" crc="224714445" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="u4608-4.png" crc="195632338" ref="servicios"/>
+    <file name="cabecera-03-u4614-fr.jpg" crc="3909677899" ref="portafolio"/>
+    <file name="u5639-4.png" crc="188666144" ref="portafolio"/>
+    <file name="kuroki - lost in the stars.jpg" crc="437306103" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="zomboy - pump it up (ioztep remix).jpg" crc="114757693" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="rexton - vicious.jpg" crc="3781634429" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="red vol.jpg" crc="309739756" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="jayden parx - welcome (jordan bootleg).jpg" crc="3803861430" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="01proyecto-papeleria.jpg" crc="414114145" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="02proyecto-tipografia.jpg" crc="348917865" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="03proyecto-triptico.jpg" crc="3966878945" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="04proyecto-jugo.jpg" crc="395155883" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="05proyecto-disco.jpg" crc="3937805282" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="flecha-izquierda.png" crc="3975364059" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="flecha-derecha.png" crc="152649081" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="cerrado.png" crc="473227605" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="brochure-u4982-fr.jpg" crc="4087272629" ref="contacto"/>
+  </folder>
+  <file name="index.html" crc="4173424891" seo="true" mt="1511658814743" redirect="true"/>
+  <file name="nosostros.html" crc="118137199" seo="true" mt="1511658357612" redirect="true"/>
+  <file name="servicios.html" crc="3766431718" seo="true" mt="1511658375044" redirect="true"/>
+  <file name="portafolio.html" crc="4111488836" seo="true" mt="1511658687550" redirect="true"/>
+  <file name="artistas.html" crc="4070346498" seo="true" mt="1511654337756" redirect="true"/>
+  <file name="contacto.html" crc="78448849" seo="true" mt="1511658563004" redirect="true"/>
+</manifest>
